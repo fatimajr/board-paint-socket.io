@@ -1,0 +1,10 @@
+{
+	"name" : "Drawing-paint",
+	"version": "0.1.0",
+	"dependencies" : {
+		"express" : "*",
+		"pug" : "*",
+		"socket.io" : "*",
+		"nodemon" : "*"
+	}
+}	
